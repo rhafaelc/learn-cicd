@@ -3,7 +3,8 @@
   "packages": [
     "go@latest",
     "delve@latest",
-    "google-cloud-sdk@515.0.0"
+    "google-cloud-sdk@515.0.0",
+    "turso-cli@latest"
   ],
   "env": {
     "GOPATH": "$PWD/../go",
