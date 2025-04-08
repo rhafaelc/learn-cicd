@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.0/.schema/devbox.schema.json",
   "packages": [
     "go@latest",
-    "delve@latest"
+    "delve@latest",
+    "google-cloud-sdk@515.0.0"
   ],
   "env": {
     "GOPATH": "$PWD/../go",
